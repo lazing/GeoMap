@@ -1,7 +1,7 @@
 # GeoMap.js
 
 
-DEMO: <http://xbingoz.com/demo/geomap/>
+DEMO: <http://xbingoz.com/public/pages/geomap.html>
 
 
 ## 概述
